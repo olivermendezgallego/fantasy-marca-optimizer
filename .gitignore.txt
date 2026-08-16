@@ -1,0 +1,14 @@
+# Credenciales y variables de entorno
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
